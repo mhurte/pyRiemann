@@ -91,6 +91,7 @@ To see the code or report a bug, please visit the `github repository
    Installing <installing>
    Example gallery <auto_examples/index>
    API reference <api>
+   How to contribute ? <contribute>
 
 .. raw:: html
 
